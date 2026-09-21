@@ -1,0 +1,17 @@
+# Environment variables (contains your real API key - never commit this)
+.env
+
+# Python cache/build files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
