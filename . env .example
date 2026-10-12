@@ -1,5 +1,0 @@
-# Copy this file to .env and fill in your real WSDOT access code.
-# Get a free access code here: https://wsdot.wa.gov/traffic/api/
-# Do NOT commit your real .env file to GitHub.
-
-WSDOT_ACCESS_CODE=your_access_code_here
